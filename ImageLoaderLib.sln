@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLoaderLib", "ImageLoaderLib\ImageLoaderLib.csproj", "{9F63C482-A67C-4DA9-BAA6-C9917D100307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{59FF2A96-9CDE-4E54-B802-46890EF29910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F63C482-A67C-4DA9-BAA6-C9917D100307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F63C482-A67C-4DA9-BAA6-C9917D100307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F63C482-A67C-4DA9-BAA6-C9917D100307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F63C482-A67C-4DA9-BAA6-C9917D100307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FF2A96-9CDE-4E54-B802-46890EF29910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FF2A96-9CDE-4E54-B802-46890EF29910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FF2A96-9CDE-4E54-B802-46890EF29910}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59FF2A96-9CDE-4E54-B802-46890EF29910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FF2A96-9CDE-4E54-B802-46890EF29910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FF2A96-9CDE-4E54-B802-46890EF29910}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
